@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: billooms.penchuck.drawables
+OpenIDE-Module-Localizing-Bundle: billooms/penchuck/drawables/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

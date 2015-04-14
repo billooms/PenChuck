@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="billooms-penchuck-penchuckeditor-PenChuckEditorAction.instance">
+                <attr name="component" methodvalue="billooms.penchuck.penchuckeditor.PenChuckEditorTopComponent.findInstance"/>
+                <attr name="displayName" bundlevalue="billooms.penchuck.penchuckeditor.Bundle#CTL_PenChuckEditorAction"/>
+                <attr name="instanceCreate" methodvalue="org.openide.windows.TopComponent.openAction"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <file name="GoTo_hidden"/>
+        <file name="Tools_hidden"/>
+        <folder name="View">
+            <file name="org-netbeans-core-actions-HTMLViewAction.shadow_hidden"/>
+        </folder>
+        <folder name="Window">
+            <file name="PenChuckEditorAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/billooms-penchuck-penchuckeditor-PenChuckEditorAction.instance"/>
+            </file>
+            <file name="org-netbeans-core-windows-actions-GlobalPropertiesAction.shadow_hidden"/>
+        </folder>
+    </folder>
+    <folder name="Services">
+        <folder name="JavaHelp">
+            <file name="penchuckeditor-helpset.xml" url="penchuckeditor-helpset.xml">
+                <attr name="position" intvalue="3123"/>
+            </file>
+        </folder>
+    </folder>
+    <file name="Toolbars_hidden"/>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="PenChuckEditorTopComponent.settings" url="PenChuckEditorTopComponentSettings.xml"/>
+        </folder>
+        <folder name="Modes">
+			<file name="leftmode.wsmode" url="leftmode.xml"/>
+            <folder name="leftmode">
+                <file name="PenChuckEditorTopComponent.wstcref" url="PenChuckEditorTopComponentWstcref.xml"/>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

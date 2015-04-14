@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+OpenIDE-Module: billooms.penchuck.rosettemodel
+OpenIDE-Module-Layer: billooms/penchuck/rosettemodel/layer.xml
+OpenIDE-Module-Localizing-Bundle: billooms/penchuck/rosettemodel/Bundle.properties
+OpenIDE-Module-Requires: org.netbeans.api.javahelp.Help
+OpenIDE-Module-Specification-Version: 1.0
+

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+OpenIDE-Module: billooms.penchuck.penchuckeditor
+OpenIDE-Module-Layer: billooms/penchuck/penchuckeditor/layer.xml
+OpenIDE-Module-Localizing-Bundle: billooms/penchuck/penchuckeditor/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager, org.netbeans.api.javahelp.Help
+OpenIDE-Module-Specification-Version: 1.0
+
